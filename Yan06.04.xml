@@ -1,0 +1,1147 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<yml_catalog date="2018-04-06 04:19">
+	<shop>
+		<name>Магазин Гламби</name>
+		<company>Общество с ограниченной ответственностью "МегаТорг"</company>
+		<url>http://glamby.ru/</url>
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		<categories>
+			<category id="14676">Шезлонги/Электрокачели</category>
+			<category id="14705">Все для сна</category>
+			<category id="14713">Гигиена и купание</category>
+			<category id="14720">Слинги и рюкзаки</category>
+			<category id="14737">Безопасность малыша</category>
+			<category id="14744">Кормление малыша</category>
+			<category id="14752">Детская одежда</category>
+			<category id="18273">Товары для беременных и кормящих мам</category>
+			<category id="19042">Оборудование (объекты ОС)</category>
+			<category id="12172">Ходунки</category>
+			<category id="14372">Детская мебель</category>
+			<category id="14374">Детские коляски</category>
+			<category id="14379">Детский транспорт</category>
+			<category id="14395">Отдых и развитие</category>
+			<category id="13595">Игрушки</category>
+			<category id="12773">Стульчики для кормления</category>
+			<category id="12786">Манежи</category>
+			<category id="12752">Автокресла</category>
+			<category id="15988">НЕ ДЛЯ ПРАЙСА</category>
+			<category id="14677" parentId="14676">Шезлонги</category>
+			<category id="14678" parentId="14676">Качели для дома</category>
+			<category id="14692" parentId="14691">Игровые палатки</category>
+			<category id="14693" parentId="14691">Игровые домики</category>
+			<category id="14694" parentId="14691">Надувной инвентарь</category>
+			<category id="14695" parentId="14691">Качели</category>
+			<category id="14696" parentId="14691">Шарики в сухой бассейн</category>
+			<category id="14697" parentId="14691">Игровые центры</category>
+			<category id="14698" parentId="14691">Песочницы</category>
+			<category id="14699" parentId="14691">Батуты</category>
+			<category id="14700" parentId="14691">Аксессуары для плавания</category>
+			<category id="14701" parentId="14691">Горки</category>
+			<category id="14702" parentId="14691">Наборы для песка</category>
+			<category id="14703" parentId="14691">Бассейны</category>
+			<category id="14704" parentId="14691">Спортивный инвентарь</category>
+			<category id="14422" parentId="14691">Вожжи/Прыгунки</category>
+			<category id="14706" parentId="14705">Комплекты в кроватку</category>
+			<category id="14707" parentId="14705">Постельное белье</category>
+			<category id="14708" parentId="14705">Матрасы</category>
+			<category id="14709" parentId="14705">Наматрасники</category>
+			<category id="14710" parentId="14705">Держатели для балдахина</category>
+			<category id="14711" parentId="14705">Подушки, одеяла, пледы</category>
+			<category id="14712" parentId="14705">Карманы и органайзеры</category>
+			<category id="15053" parentId="14705">Проекторы</category>
+			<category id="18377" parentId="14705">Позиционеры для сна</category>
+			<category id="14655" parentId="14713">Бытовая химия</category>
+			<category id="14714" parentId="14713">Гигиена</category>
+			<category id="14724" parentId="14713">Уход за малышом</category>
+			<category id="14729" parentId="14713">Купание</category>
+			<category id="18428" parentId="14713">Аптечки</category>
+			<category id="14715" parentId="14714">Подгузники</category>
+			<category id="14716" parentId="14714">Одноразовые пеленки</category>
+			<category id="14717" parentId="14714">Влажные салфетки</category>
+			<category id="14718" parentId="14714">Горшки</category>
+			<category id="14719" parentId="14714">Сиденья на унитаз</category>
+			<category id="14930" parentId="14714">Зубные щетки</category>
+			<category id="14721" parentId="14720">Слинги</category>
+			<category id="14722" parentId="14720">Рюкзаки-кенгуру</category>
+			<category id="14723" parentId="14720">Сумки-переноски</category>
+			<category id="14725" parentId="14724">Ножницы, расчески</category>
+			<category id="14726" parentId="14724">Термометры</category>
+			<category id="14727" parentId="14724">Прорезыватели</category>
+			<category id="14728" parentId="14724">Аспираторы</category>
+			<category id="14960" parentId="14724">Уход за кожей</category>
+			<category id="16717" parentId="14724">Весы</category>
+			<category id="14730" parentId="14729">Круги для купания</category>
+			<category id="14731" parentId="14729">Ванночки и подставки</category>
+			<category id="14732" parentId="14729">Горки, сиденья для ванны</category>
+			<category id="14733" parentId="14729">Коврики</category>
+			<category id="14734" parentId="14729">Козырьки для купания</category>
+			<category id="14735" parentId="14729">Игрушки для купания</category>
+			<category id="14736" parentId="14729">Аксессуары для ванны</category>
+			<category id="18981" parentId="14729">Купальные костюмы</category>
+			<category id="14738" parentId="14737">Блокирующие устройства</category>
+			<category id="14739" parentId="14737">Ворота безопасности, Барьеры</category>
+			<category id="14740" parentId="14737">Радионяни, Видеоняни</category>
+			<category id="14741" parentId="14737">Поводки / Вожжи</category>
+			<category id="17582" parentId="14737">Аксессуары для безопасности малыша</category>
+			<category id="14745" parentId="14744">Бутылочки</category>
+			<category id="14746" parentId="14744">Поильники</category>
+			<category id="14748" parentId="14744">Аксессуары для бутылочек</category>
+			<category id="14749" parentId="14744">Посуда для малыша</category>
+			<category id="14750" parentId="14744">Пустышки</category>
+			<category id="17264" parentId="14744">Аксессуары для кормления</category>
+			<category id="14753" parentId="14752">Боди</category>
+			<category id="14754" parentId="14752">Распашонки / Рукавички</category>
+			<category id="14755" parentId="14752">Одежда на выписку</category>
+			<category id="14756" parentId="14752">Крестильные наборы</category>
+			<category id="14757" parentId="14752">Пеленки / Шапочки</category>
+			<category id="14758" parentId="14752">Ползунки</category>
+			<category id="14759" parentId="14752">Комбинезоны</category>
+			<category id="14761" parentId="14752">Носки и колготки</category>
+			<category id="14762" parentId="14752">Костюмы</category>
+			<category id="17835" parentId="14752">Дождевики/Грязезащитные костюмы</category>
+			<category id="15552" parentId="15210">Развивающие книги / Планшеты</category>
+			<category id="15553" parentId="15210">Детское творчество</category>
+			<category id="15555" parentId="15210">Игры</category>
+			<category id="15556" parentId="15210">Музыкальные инструменты</category>
+			<category id="18274" parentId="18273">Сумки в роддом</category>
+			<category id="18486" parentId="18273">Слингокуртки</category>
+			<category id="18950" parentId="18273">Подушки</category>
+			<category id="12252" parentId="12253">Горш</category>
+			<category id="12994" parentId="12288">Самокаты</category>
+			<category id="12783" parentId="12288">Качели детские</category>
+			<category id="16149" parentId="15430">для электромобиля</category>
+			<category id="15057" parentId="15427">Куклы, пупсы</category>
+			<category id="12785" parentId="15427">Игрушечные коляски</category>
+			<category id="15539" parentId="15427">Мебель для кукол</category>
+			<category id="15540" parentId="15427">Пони / Лошадки</category>
+			<category id="15558" parentId="15427">Аксессуары</category>
+			<category id="16383" parentId="14351">Портфели/Сумки</category>
+			<category id="15549" parentId="14351">Батарейки</category>
+			<category id="15550" parentId="14351">Ящики / Корзины для игрушек</category>
+			<category id="14664" parentId="14372">Колыбели</category>
+			<category id="14831" parentId="14372">Пеленальные доски и накладки</category>
+			<category id="18588" parentId="14372">Аксессуары для детской комнаты</category>
+			<category id="14373" parentId="14372">Кровати-трансформеры</category>
+			<category id="14443" parentId="14372">Наборы мебели ( стол+ стул)</category>
+			<category id="14444" parentId="14372">Мольберт</category>
+			<category id="13119" parentId="14372">Детская кроватка</category>
+			<category id="15928" parentId="14372">Комоды</category>
+			<category id="14665" parentId="14374">Коляски 2в1</category>
+			<category id="14666" parentId="14374">Коляски 3в1</category>
+			<category id="14667" parentId="14374">Коляски для новорожденных</category>
+			<category id="14668" parentId="14374">Коляски трансформеры</category>
+			<category id="14375" parentId="14374">Прогулочные коляски</category>
+			<category id="14376" parentId="14374">Коляски для двойни / погодок</category>
+			<category id="14377" parentId="14374">Аксессуары для колясок</category>
+			<category id="12800" parentId="14374">Коляски трости</category>
+			<category id="14669" parentId="14377">Органайзеры / сумки</category>
+			<category id="14670" parentId="14377">Дождевики</category>
+			<category id="14672" parentId="14377">Москитные сетки</category>
+			<category id="14673" parentId="14377">Муфты</category>
+			<category id="14674" parentId="14377">Замки</category>
+			<category id="14675" parentId="14377">Комплекты в коляску/Конверты</category>
+			<category id="15284" parentId="14377">Чехлы на колеса</category>
+			<category id="18958" parentId="14377">Зонты</category>
+			<category id="16522" parentId="14377">Накладки на раму</category>
+			<category id="14841" parentId="14378">Поколение</category>
+			<category id="14922" parentId="14378">Группа 1/2/3 (9-36 кг)</category>
+			<category id="15041" parentId="14378">Горш</category>
+			<category id="15042" parentId="14378">Быт</category>
+			<category id="12288" parentId="14378">Качели, Игр.Коляски</category>
+			<category id="14236" parentId="14378">Круги</category>
+			<category id="14394" parentId="14378">НИКА</category>
+			<category id="14414" parentId="14378">Roxy Kids</category>
+			<category id="14445" parentId="14378">ГИГИЕНА И УХОД</category>
+			<category id="14540" parentId="14378">Никитоша</category>
+			<category id="12821" parentId="14378">Комплекты в кроватку, пеленки и др.</category>
+			<category id="13549" parentId="14378">Группа 1 (9-18 кг)</category>
+			<category id="13550" parentId="14378">Группа 1/2 (9-25 кг)</category>
+			<category id="13793" parentId="14378">Roxy Kids</category>
+			<category id="14682" parentId="14379">Квадроциклы</category>
+			<category id="14683" parentId="14379">Самокаты</category>
+			<category id="14684" parentId="14379">Беговелы</category>
+			<category id="17806" parentId="14379">Гироскутер</category>
+			<category id="17975" parentId="14379">Роликовые коньки</category>
+			<category id="17980" parentId="14379">Скейтборды</category>
+			<category id="14380" parentId="14379">Электромотоциклы</category>
+			<category id="14428" parentId="14379">Толокары/Каталки</category>
+			<category id="16339" parentId="14379">Аксессуары для детского транспорта</category>
+			<category id="16578" parentId="14379">Педальные машины</category>
+			<category id="12784" parentId="14379">Велосипеды детские</category>
+			<category id="13860" parentId="14379">Качалки</category>
+			<category id="12889" parentId="14379">Электромобили</category>
+			<category id="14691" parentId="14395">Активный отдых</category>
+			<category id="13069" parentId="14395">Зимний отдых</category>
+			<category id="14661" parentId="14445">Подгузники, трусики, пеленки, салфетки</category>
+			<category id="12253" parentId="14445">Ванночки, гор, подставки</category>
+			<category id="12819" parentId="14445">Бутылочки, прорезыватели</category>
+			<category id="256" parentId="12819">Бутылочки для кормления</category>
+			<category id="296" parentId="12819">Прорезыватели и пластик</category>
+			<category id="156" parentId="12819">Игрушки Колория</category>
+			<category id="669" parentId="12819">6 Лорелли</category>
+			<category id="13018" parentId="12822">Хоз. товары</category>
+			<category id="13027" parentId="12822">ОС более 40 тыс.</category>
+			<category id="12885" parentId="12822">Услуги</category>
+			<category id="12923" parentId="12822">ОС до 40 тыс. рублей</category>
+			<category id="15722" parentId="13908">Товары для Екатеринбурга</category>
+			<category id="14743" parentId="13595">Интерактивные игрушки</category>
+			<category id="15210" parentId="13595">Развитие и обучение</category>
+			<category id="15427" parentId="13595">Игрушки для девочек</category>
+			<category id="14351" parentId="13595">Аксессуары для игрушек</category>
+			<category id="17235" parentId="13595">Мягкие игрушки</category>
+			<category id="16340" parentId="13595">Праздничные аксессуары:ветрячки,палочки,сувениры</category>
+			<category id="15473" parentId="13595">Игрушки для мальчиков</category>
+			<category id="15476" parentId="13595">Сюжетно ролевые игры</category>
+			<category id="15538" parentId="13595">Игрушки для малышей</category>
+			<category id="15557" parentId="13595">КИТАЙ</category>
+			<category id="16253" parentId="12784">Двухколесные велосипеды</category>
+			<category id="16257" parentId="12784">Трехколесные велосипеды</category>
+			<category id="16262" parentId="12885">Расходы для УСН</category>
+			<category id="13562" parentId="12885">Финансовая аренда (лизинг)</category>
+			<category id="13056" parentId="12885">Услуги Касса</category>
+			<category id="13546" parentId="12752">Группа 0/1 (0-18 кг)</category>
+			<category id="13547" parentId="12752">Детское удерживающее устройство</category>
+			<category id="13548" parentId="12752">Группа 0+ (0-13 кг)</category>
+			<category id="13551" parentId="12752">Группа 1/2/3 (9-36 кг)</category>
+			<category id="13553" parentId="12752">Группа 2/3 (15-36 кг)</category>
+			<category id="13554" parentId="12752">Аксессуары для автокресел</category>
+			<category id="13970" parentId="12752">Группа 0/1/2 (0-25 кг)</category>
+			<category id="14747" parentId="17264">Нагрудники</category>
+			<category id="14751" parentId="17264">Термосумки</category>
+			<category id="14909" parentId="17264">Молокоотсосы и аксессуары</category>
+			<category id="17539" parentId="17264">Накидки для кормления</category>
+			<category id="17540" parentId="17264">Ниблеры</category>
+			<category id="13306" parentId="13265">Станки</category>
+			<category id="14544" parentId="12923">Стеллажи и Сервис</category>
+			<category id="14459" parentId="14054">Грако(Позитив)</category>
+			<category id="14559" parentId="14054">Наша игрушка</category>
+			<category id="14603" parentId="14054">ВИТ индустрия</category>
+			<category id="14685" parentId="13069">Санки</category>
+			<category id="14686" parentId="13069">Санки-коляски</category>
+			<category id="14687" parentId="13069">Снегокаты</category>
+			<category id="14689" parentId="13069">Тюбинги/Ватрушки/Лыжи</category>
+			<category id="16825" parentId="13069">Аксессуары для зимних товаров</category>
+			<category id="14742" parentId="15473">Железные дороги</category>
+			<category id="15220" parentId="15473">Машинки</category>
+			<category id="18095" parentId="15473">Водяное оружие</category>
+			<category id="18114" parentId="15473">Детское оружие</category>
+			<category id="15541" parentId="15473">Автотреки / Парковки</category>
+			<category id="15542" parentId="15473">Машинки на радиоуправлении</category>
+			<category id="15543" parentId="15473">Вертолеты / Самолеты</category>
+			<category id="15544" parentId="15473">Роботы</category>
+			<category id="16374" parentId="15476">Игровые наборы</category>
+			<category id="15545" parentId="15476">Детские кухни</category>
+			<category id="15546" parentId="15476">Наборы доктора</category>
+			<category id="15547" parentId="15476">Бытовая техника</category>
+			<category id="15548" parentId="15476">Мастерские</category>
+			<category id="15559" parentId="15476">Посуда</category>
+			<category id="15560" parentId="15476">Магазин</category>
+			<category id="15113" parentId="15538">Игровые  центры</category>
+			<category id="14429" parentId="15538">Каталки</category>
+			<category id="13596" parentId="15538">Музыкальные игрушки</category>
+			<category id="13611" parentId="15538">Погремушки</category>
+			<category id="13644" parentId="15538">Подвесные игрушки/Игрушки на коляску</category>
+			<category id="13806" parentId="15538">Сортеры</category>
+			<category id="13859" parentId="15538">Игровые коврики</category>
+			<category id="13861" parentId="15538">Развивающие игрушки</category>
+			<category id="13862" parentId="15538">Музыкальные карусели / Мобили</category>
+			<category id="18228" parentId="15553">Аксессуары для творчества</category>
+			<category id="16947" parentId="15553">Растим</category>
+			<category id="17208" parentId="15553">Научные наборы</category>
+			<category id="16351" parentId="15553">Лепим</category>
+			<category id="16352" parentId="15553">Творим</category>
+			<category id="16353" parentId="15553">Рисуем</category>
+			<category id="16939" parentId="15555">Пазлы</category>
+			<category id="16940" parentId="15555">Деревянные игрушки</category>
+			<category id="16941" parentId="15555">Игровые наборы</category>
+			<category id="16942" parentId="15555">Игровые фигурки</category>
+			<category id="16943" parentId="15555">Мозаика</category>
+			<category id="16944" parentId="15555">Настольные игры</category>
+			<category id="16386" parentId="15555">Мыльные пузыри</category>
+			<category id="15554" parentId="15555">Конструктор</category>
+			<category id="14671" parentId="15988">Сумки</category>
+			<category id="14679" parentId="15988">Одноуровневые манежи</category>
+			<category id="14680" parentId="15988">Двухуровневые манежи</category>
+			<category id="14681" parentId="15988">Игровые манежи</category>
+			<category id="14760" parentId="15988">Нижнее белье</category>
+			<category id="18353" parentId="15988">Кроватки старые артикулы</category>
+			<category id="18741" parentId="15988">Безопасность малыша</category>
+			<category id="18941" parentId="15988">Рекламная продукция</category>
+			<category id="19063" parentId="15988">Запчасти  и комплектующие</category>
+			<category id="12623" parentId="15988">ЯСубаренда</category>
+			<category id="15430" parentId="15988">Запчасти для продажи</category>
+			<category id="14378" parentId="15988">ЯУстаревшие товары</category>
+			<category id="12822" parentId="15988">ЯРазное</category>
+			<category id="16967" parentId="15988">Конверты</category>
+			<category id="13908" parentId="15988">ЯТовары для перепродажи МегаТорг</category>
+			<category id="16675" parentId="15988">Дисконтые карты Екатеринбург</category>
+			<category id="16316" parentId="15988">Временно нет в наличии</category>
+			<category id="16618" parentId="15988">ДЕТСКАЯ МЕБЕЛЬ</category>
+			<category id="16620" parentId="15988">Разукомплектация</category>
+			<category id="13265" parentId="15988">ЯМатериалы и прочее Ростов</category>
+			<category id="13269" parentId="15988">Инвентарь</category>
+			<category id="14054" parentId="15988">Товары розница Екатеринбург</category>
+			<category id="15551" parentId="15988">Ящики для игрушек</category>
+			<category id="15771" parentId="15988">Экспресс Вектор</category>
+			<category id="15979" parentId="15988">Уцененные товары</category>
+			<category id="14688" parentId="16825">Матрасы в санки</category>
+			<category id="14690" parentId="16825">Ледянки</category>
+			<category id="18503" parentId="16825">Игровой зимний инвентарь</category>
+		</categories>
+		<delivery-options>
+			<option cost="400" days="2"/>
+		</delivery-options>
+		<cpa>1</cpa>
+		<offers>
+			<offer id="18186" group_id="18186" available="true">
+				<url>http://glamby.ru/catalogue/gruppa-0---0-13-kg-/1007105-</url>
+				<price>3200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>13548</categoryId>
+				<picture>http://glamby.ru/files/Image/10792.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Автокресло Lorelli HB801 Delta 0-13 кг</name>
+			</offer>
+			<offer id="12753" group_id="12753" available="true">
+				<url>http://glamby.ru/catalogue/gruppa-0---0-13-kg-/1007030-</url>
+				<price>2595</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>13548</categoryId>
+				<picture>http://glamby.ru/files/Image/9990.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Автокресло Lorelli LB321 Lifesaver 0-13 кг</name>
+			</offer>
+			<offer id="12754" group_id="12754" available="true">
+				<url>http://glamby.ru/catalogue/gruppa-0---0-13-kg-/1007013-</url>
+				<price>2065</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>13548</categoryId>
+				<picture>http://glamby.ru/files/Image/11450.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Автокресло Lorelli Z-104 Bodyguard 0-10 кг</name>
+			</offer>
+			<offer id="12755" group_id="12755" available="true">
+				<url>http://glamby.ru/catalogue/gruppa-0-1--0-18-kg-/1007016-</url>
+				<price>3365</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>13546</categoryId>
+				<picture>http://glamby.ru/files/Image/9994.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Автокресло LB303 Concord 0-18 кг.</name>
+			</offer>
+			<offer id="12767" group_id="12767" available="true">
+				<url>http://glamby.ru/catalogue/gruppa-0-1--0-18-kg-/1007061-</url>
+				<price>3940</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>13546</categoryId>
+				<picture>http://glamby.ru/files/Image/6082.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Автокресло LB717 Grand Prix 0-18 кг.</name>
+			</offer>
+			<offer id="18210" group_id="18210" available="true">
+				<url>http://glamby.ru/catalogue/gruppa-0-1--0-18-kg-/1007101-</url>
+				<price>4435</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>13546</categoryId>
+				<picture>http://glamby.ru/files/Image/10863.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Автокресло Lorelli HB-EK Tommy sps 0-18 кг</name>
+			</offer>
+			<offer id="13969" group_id="13969" available="true">
+				<url>http://glamby.ru/catalogue/gruppa-0-1--0-18-kg-/1007093-</url>
+				<price>4190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>13546</categoryId>
+				<picture>http://glamby.ru/files/Image/9747.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Автокресло Lorelli Saturn 0-18 кг</name>
+			</offer>
+			<offer id="18187" group_id="18187" available="true">
+				<url>http://glamby.ru/catalogue/gruppa-0-1-2--0-25-kg-/1007106-</url>
+				<price>10300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>13970</categoryId>
+				<picture>http://glamby.ru/files/Image/10798.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Автокресло BS02N-T Arthur sps isofix 0-25 кг</name>
+			</offer>
+			<offer id="18190" group_id="18190" available="true">
+				<url>http://glamby.ru/catalogue/gruppa-0-1-2--0-25-kg-/1007103-</url>
+				<price>4860</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>13970</categoryId>
+				<picture>http://glamby.ru/files/Image/13932.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Автокресло HB-07 Sigma sps 0-25 кг</name>
+			</offer>
+			<offer id="14234" group_id="14234" available="true">
+				<url>http://glamby.ru/catalogue/gruppa-0-1-2--0-25-kg-/1007071-</url>
+				<price>4520</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>13970</categoryId>
+				<picture>http://glamby.ru/files/Image/13854.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Автокресло KDG-012 Safeguard 0-25 кг.</name>
+			</offer>
+			<offer id="13971" group_id="13971" available="true">
+				<url>http://glamby.ru/catalogue/gruppa-0-1-2--0-25-kg-/1007094-</url>
+				<price>5440</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>13970</categoryId>
+				<picture>http://glamby.ru/files/Image/9545.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Автокресло Lorelli HB 919 Jupiter 0-25 кг.</name>
+			</offer>
+			<offer id="16649" group_id="16649" available="true">
+				<url>http://glamby.ru/catalogue/gruppa-1-2-3--9-36-kg-/1007102-</url>
+				<price>9990</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>13551</categoryId>
+				<picture>http://glamby.ru/files/Image/13856.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Автокресло BH12312i Titan sps isofix 9-36 кг</name>
+			</offer>
+			<offer id="18188" group_id="18188" available="true">
+				<url>http://glamby.ru/catalogue/gruppa-1-2-3--9-36-kg-/1007107-</url>
+				<price>10625</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>13551</categoryId>
+				<picture>http://glamby.ru/files/Image/10802.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Автокресло BS07-TT Mars эко-кожа sps isofix 9-36 кг </name>
+			</offer>
+			<offer id="13219" group_id="13219" available="true">
+				<url>http://glamby.ru/catalogue/gruppa-1-2-3--9-36-kg-/1007082-</url>
+				<price>3025</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>13551</categoryId>
+				<picture>http://glamby.ru/files/Image/10000.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Автокресло KDG-123 Junior 9-36 кг.</name>
+			</offer>
+			<offer id="13250" group_id="13250" available="true">
+				<url>http://glamby.ru/catalogue/gruppa-1-2-3--9-36-kg-/1007083-</url>
+				<price>3240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>13551</categoryId>
+				<picture>http://glamby.ru/files/Image/10007.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Автокресло KDG-123 Junior plus 9-36 кг</name>
+			</offer>
+			<offer id="12763" group_id="12763" available="true">
+				<url>http://glamby.ru/catalogue/gruppa-1-2-3--9-36-kg-/1007001-</url>
+				<price>3455</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>13551</categoryId>
+				<picture>http://glamby.ru/files/Image/11448.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Автокресло Kiddy 9-36 кг.</name>
+			</offer>
+			<offer id="18189" group_id="18189" available="true">
+				<url>http://glamby.ru/catalogue/gruppa-1-2-3--9-36-kg-/1007104-</url>
+				<price>5190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>13551</categoryId>
+				<picture>http://glamby.ru/files/Image/13863.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Автокресло Lorelli HB01 Omega sps 9-36 кг </name>
+			</offer>
+			<offer id="13739" group_id="13739" available="true">
+				<url>http://glamby.ru/catalogue/gruppa-1-2-3--9-36-kg-/1007085-</url>
+				<price>6280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>13551</categoryId>
+				<picture>http://glamby.ru/files/Image/13867.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Автокресло Lorelli LB-361 Magic premium 9-36 кг</name>
+			</offer>
+			<offer id="13511" group_id="13511" available="true">
+				<url>http://glamby.ru/catalogue/gruppa-1-2-3--9-36-kg-/1007090-</url>
+				<price>3115</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>13551</categoryId>
+				<picture>http://glamby.ru/files/Image/13870.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Автокресло Lorelli LD-01 Navigator 9-36 кг.</name>
+			</offer>
+			<offer id="13510" group_id="13510" available="true">
+				<url>http://glamby.ru/catalogue/gruppa-1-2-3--9-36-kg-/1007089-</url>
+				<price>2865</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>13551</categoryId>
+				<picture>http://glamby.ru/files/Image/12965.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Автокресло Lorelli LD-02 Explorer 9-36 кг</name>
+			</offer>
+			<offer id="16281" group_id="16281" available="true">
+				<url>http://glamby.ru/catalogue/vorota-bezopasnosti--barery/1018002-</url>
+				<price>1600</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>14739</categoryId>
+				<picture>http://glamby.ru/files/Image/9219.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Защитный барьер для кроватки Lorelli 1018002 </name>
+			</offer>
+			<offer id="16025" group_id="16025" available="true">
+				<url>http://glamby.ru/catalogue/progulochnye-kolyaski/1002070-</url>
+				<price>4840</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>14375</categoryId>
+				<picture>http://glamby.ru/files/Image/10308.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Прогулочная коляска Lorelli Aero с накидкой на ножки</name>
+			</offer>
+			<offer id="16026" group_id="16026" available="true">
+				<url>http://glamby.ru/catalogue/progulochnye-kolyaski/1002090-</url>
+				<price>6490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>14375</categoryId>
+				<picture>http://glamby.ru/files/Image/5116.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Прогулочная коляска Lorelli Apollo с накидкой на ножки</name>
+			</offer>
+			<offer id="12806" group_id="12806" available="true">
+				<url>http://glamby.ru/catalogue/progulochnye-kolyaski/1002008-</url>
+				<price>5500</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>14375</categoryId>
+				<picture>http://glamby.ru/files/Image/9728.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Прогулочная коляска Lorelli Combi с накидкой на ножки</name>
+			</offer>
+			<offer id="19051" group_id="19051" available="true">
+				<url>http://glamby.ru/catalogue/progulochnye-kolyaski/1020038-</url>
+				<price>7115</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>14375</categoryId>
+				<picture>http://glamby.ru/files/Image/13927.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Прогулочная коляска Lorelli Foxy SET с накидкой на ножки</name>
+			</offer>
+			<offer id="12810" group_id="12810" available="true">
+				<url>http://glamby.ru/catalogue/progulochnye-kolyaski/1002052a</url>
+				<price>4315</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>14375</categoryId>
+				<picture>http://glamby.ru/files/Image/13114.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Прогулочная коляска Lorelli Foxy с накидкой на ножки</name>
+			</offer>
+			<offer id="13230" group_id="13230" available="true">
+				<url>http://glamby.ru/catalogue/progulochnye-kolyaski/1002067-</url>
+				<price>5690</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>14375</categoryId>
+				<picture>http://glamby.ru/files/Image/9661.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Прогулочная коляска Lorelli Rio с накидкой на ножки</name>
+			</offer>
+			<offer id="16184" group_id="16184" available="true">
+				<url>http://glamby.ru/catalogue/progulochnye-kolyaski/1002084-</url>
+				<price>6815</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>14375</categoryId>
+				<picture>http://glamby.ru/files/Image/13904.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Прогулочная коляска Lorelli S-300 с накидкой на ножки</name>
+			</offer>
+			<offer id="16873" group_id="16873" available="true">
+				<url>http://glamby.ru/catalogue/progulochnye-kolyaski/1002096a</url>
+				<price>3365</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>14375</categoryId>
+				<picture>http://glamby.ru/files/Image/10319.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Прогулочная коляска Lorelli Terra с накидкой на ножки</name>
+			</offer>
+			<offer id="12973" group_id="12973" available="true">
+				<url>http://glamby.ru/catalogue/kolyaski-trosti/1002073-</url>
+				<price>4240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>12800</categoryId>
+				<picture>http://glamby.ru/files/Image/9657.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Коляска трость Lorelli Fiesta с накидкой на ножки</name>
+			</offer>
+			<offer id="12818" group_id="12818" available="true">
+				<url>http://glamby.ru/catalogue/kolyaski-trosti/1002043-</url>
+				<price>2105</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>12800</categoryId>
+				<picture>http://glamby.ru/files/Image/10760.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Коляска трость Lorelli Flash</name>
+			</offer>
+			<offer id="12817" group_id="12817" available="true">
+				<url>http://glamby.ru/catalogue/kolyaski-trosti/1002047-</url>
+				<price>2315</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>12800</categoryId>
+				<picture>http://glamby.ru/files/Image/13915.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Коляска трость Lorelli Light</name>
+			</offer>
+			<offer id="16908" group_id="16908" available="true">
+				<url>http://glamby.ru/catalogue/kolyaski-trosti/1002087-</url>
+				<price>4875</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>12800</categoryId>
+				<picture>http://glamby.ru/files/Image/6933.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Коляска трость Lorelli Onyx с накидкой на ножки</name>
+			</offer>
+			<offer id="14240" group_id="14240" available="true">
+				<url>http://glamby.ru/catalogue/kolyaski-trosti/1002083-</url>
+				<price>6315</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>12800</categoryId>
+				<picture>http://glamby.ru/files/Image/9744.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Коляска трость Lorelli S-200 с накидкой на ножки</name>
+			</offer>
+			<offer id="16185" group_id="16185" available="true">
+				<url>http://glamby.ru/catalogue/kolyaski-trosti/1002088-</url>
+				<price>2690</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>12800</categoryId>
+				<picture>http://glamby.ru/files/Image/10323.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Коляска трость Lorelli Trek</name>
+			</offer>
+			<offer id="18957" group_id="18957" available="true">
+				<url>http://glamby.ru/catalogue/kolyaski-2v1/1002103-</url>
+				<price>13500</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>14665</categoryId>
+				<picture>http://glamby.ru/files/Image/13124.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Коляска Lorelli Savana 2в1</name>
+			</offer>
+			<offer id="18956" group_id="18956" available="true">
+				<url>http://glamby.ru/catalogue/kolyaski-transformery/1002102-</url>
+				<price>13315</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>14668</categoryId>
+				<picture>http://glamby.ru/files/Image/10763.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Коляска трансформер Lorelli Arizona 2в1</name>
+			</offer>
+			<offer id="16808" group_id="16808" available="true">
+				<url>http://glamby.ru/catalogue/kolyaski-transformery/1002095-</url>
+				<price>16115</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>14668</categoryId>
+				<picture>http://glamby.ru/files/Image/10277.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Коляска трансформер Lorelli Aurora надувные колеса</name>
+			</offer>
+			<offer id="16676" group_id="16676" available="true">
+				<url>http://glamby.ru/catalogue/kolyaski-transformery/1002092-</url>
+				<price>14700</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>14668</categoryId>
+				<picture>http://glamby.ru/files/Image/10273.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Коляска трансформер Lorelli Aurora с накидкой на ножки</name>
+			</offer>
+			<offer id="16823" group_id="16823" available="true">
+				<url>http://glamby.ru/catalogue/kolyaski-transformery/1002078-</url>
+				<price>17730</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>14668</categoryId>
+				<picture>http://glamby.ru/files/Image/10357.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Коляска трансформер Lorelli Calibra 3 с накидкой на ножки</name>
+			</offer>
+			<offer id="16211" group_id="16211" available="true">
+				<url>http://glamby.ru/catalogue/kolyaski-transformery/1002080-</url>
+				<price>16090</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>14668</categoryId>
+				<picture>http://glamby.ru/files/Image/9730.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Коляска трансформер Lorelli Luna с накидкой на ножки</name>
+			</offer>
+			<offer id="16212" group_id="16212" available="true">
+				<url>http://glamby.ru/catalogue/kolyaski-transformery/1002093-</url>
+				<price>8190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>14668</categoryId>
+				<picture>http://glamby.ru/files/Image/10117.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Коляска трансформер Lorelli S-500 с накидкой на ножки</name>
+			</offer>
+			<offer id="17541" group_id="17541" available="true">
+				<url>http://glamby.ru/catalogue/kolyaski-transformery/1002097-</url>
+				<price>10340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>14668</categoryId>
+				<picture>http://glamby.ru/files/Image/8856.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Коляска трансформер Lorelli Vista с накидкой на ножки</name>
+			</offer>
+			<offer id="17829" group_id="17829" available="true">
+				<url>http://glamby.ru/catalogue/manezhi/1008035-</url>
+				<price>4140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>12786</categoryId>
+				<picture>http://glamby.ru/files/Image/9726.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Манеж Lorelli Danny 1</name>
+			</offer>
+			<offer id="17831" group_id="17831" available="true">
+				<url>http://glamby.ru/catalogue/manezhi/1008036-</url>
+				<price>5330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>12786</categoryId>
+				<picture>http://glamby.ru/files/Image/9753.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Манеж Lorelli Danny 2</name>
+			</offer>
+			<offer id="17832" group_id="17832" available="true">
+				<url>http://glamby.ru/catalogue/manezhi/1008037-</url>
+				<price>5675</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>12786</categoryId>
+				<picture>http://glamby.ru/files/Image/10389.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Манеж Lorelli Danny 2 Rocker</name>
+			</offer>
+			<offer id="13214" group_id="13214" available="true">
+				<url>http://glamby.ru/catalogue/manezhi/1008002--2014-</url>
+				<price>6490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>12786</categoryId>
+				<picture>http://glamby.ru/files/Image/12391.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Манеж Lorelli I'Lounge 2 Rocker </name>
+			</offer>
+			<offer id="14242" group_id="14242" available="true">
+				<url>http://glamby.ru/catalogue/manezhi/1008018-</url>
+				<price>3305</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>12786</categoryId>
+				<picture>http://glamby.ru/files/Image/1093.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Манеж Lorelli Nanny 1</name>
+			</offer>
+			<offer id="13101" group_id="13101" available="true">
+				<url>http://glamby.ru/catalogue/manezhi/1008019-</url>
+				<price>4315</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>12786</categoryId>
+				<picture>http://glamby.ru/files/Image/10381.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Манеж Lorelli Nanny 2</name>
+			</offer>
+			<offer id="15698" group_id="15698" available="true">
+				<url>http://glamby.ru/catalogue/manezhi/1008016-</url>
+				<price>4950</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>12786</categoryId>
+				<picture>http://glamby.ru/files/Image/5139.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Манеж Lorelli Nanny 2 plus rocker</name>
+			</offer>
+			<offer id="12797" group_id="12797" available="true">
+				<url>http://glamby.ru/catalogue/manezhi/1008005-</url>
+				<price>4230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>12786</categoryId>
+				<picture>http://glamby.ru/files/Image/5125.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Манеж Lorelli Play</name>
+			</offer>
+			<offer id="12796" group_id="12796" available="true">
+				<url>http://glamby.ru/catalogue/manezhi/1008040-</url>
+				<price>4130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>12786</categoryId>
+				<picture>http://glamby.ru/files/Image/10372.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Манеж Lorelli Play station</name>
+			</offer>
+			<offer id="18658" group_id="18658" available="true">
+				<url>http://glamby.ru/catalogue/manezhi/1008001-</url>
+				<price>3305</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>12786</categoryId>
+				<picture>http://glamby.ru/files/Image/13628.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Манеж Lorelli San Remo 1</name>
+			</offer>
+			<offer id="19052" group_id="19052" available="true">
+				<url>http://glamby.ru/catalogue/manezhi/1008007-</url>
+				<price>4165</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>12786</categoryId>
+				<picture>http://glamby.ru/files/Image/13943.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Манеж Lorelli San Remo 2</name>
+			</offer>
+			<offer id="18659" group_id="18659" available="true">
+				<url>http://glamby.ru/catalogue/manezhi/1008008-</url>
+				<price>4605</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>12786</categoryId>
+				<picture>http://glamby.ru/files/Image/13633.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Манеж Lorelli San Remo 2 Plus</name>
+			</offer>
+			<offer id="16575" group_id="16575" available="true">
+				<url>http://glamby.ru/catalogue/manezhi/1008031-</url>
+				<price>5500</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>12786</categoryId>
+				<picture>http://glamby.ru/files/Image/9512.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Манеж Lorelli Sleep'N'Dream</name>
+			</offer>
+			<offer id="16580" group_id="16580" available="true">
+				<url>http://glamby.ru/catalogue/manezhi/1008034-</url>
+				<price>6425</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>12786</categoryId>
+				<picture>http://glamby.ru/files/Image/9769.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Манеж Lorelli Sleep'N'Dream rocker</name>
+			</offer>
+			<offer id="18211" group_id="18211" available="true">
+				<url>http://glamby.ru/catalogue/stulchiki-dlya-kormleniya/1010029-</url>
+				<price>2055</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>12773</categoryId>
+				<picture>http://glamby.ru/files/Image/10870.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Стульчик для кормления Lorelli Amaro</name>
+			</offer>
+			<offer id="18661" group_id="18661" available="true">
+				<url>http://glamby.ru/catalogue/stulchiki-dlya-kormleniya/1010031-</url>
+				<price>2740</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>12773</categoryId>
+				<picture>http://glamby.ru/files/Image/12315.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Стульчик для кормления Lorelli Bonbon (Bravo)</name>
+			</offer>
+			<offer id="12777" group_id="12777" available="true">
+				<url>http://glamby.ru/catalogue/stulchiki-dlya-kormleniya/1010006-</url>
+				<price>2740</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>12773</categoryId>
+				<picture>http://glamby.ru/files/Image/10337.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Стульчик для кормления Lorelli Bravo</name>
+			</offer>
+			<offer id="12881" group_id="12881" available="true">
+				<url>http://glamby.ru/catalogue/stulchiki-dlya-kormleniya/1010021-</url>
+				<price>2375</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>12773</categoryId>
+				<picture>http://glamby.ru/files/Image/10341.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Стульчик для кормления Lorelli Candy</name>
+			</offer>
+			<offer id="12779" group_id="12779" available="true">
+				<url>http://glamby.ru/catalogue/stulchiki-dlya-kormleniya/1010008-</url>
+				<price>3230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>12773</categoryId>
+				<picture>http://glamby.ru/files/Image/9199.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Стульчик для кормления Lorelli Jolly</name>
+			</offer>
+			<offer id="18660" group_id="18660" available="true">
+				<url>http://glamby.ru/catalogue/stulchiki-dlya-kormleniya/1010032-</url>
+				<price>2375</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>12773</categoryId>
+				<picture>http://glamby.ru/files/Image/13601.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Стульчик для кормления Lorelli Marcel (Candy)</name>
+			</offer>
+			<offer id="15044" group_id="15044" available="true">
+				<url>http://glamby.ru/catalogue/stulchiki-dlya-kormleniya/1010025-</url>
+				<price>4695</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>12773</categoryId>
+				<picture>http://glamby.ru/files/Image/9514.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Стульчик для кормления Lorelli Oliver</name>
+			</offer>
+			<offer id="17833" group_id="17833" available="true">
+				<url>http://glamby.ru/catalogue/stulchiki-dlya-kormleniya/1010028-</url>
+				<price>2295</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>12773</categoryId>
+				<picture>http://glamby.ru/files/Image/9763.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Стульчик для кормления Lorelli Pixi</name>
+			</offer>
+			<offer id="12774" group_id="12774" available="true">
+				<url>http://glamby.ru/catalogue/stulchiki-dlya-kormleniya/1010005-</url>
+				<price>4975</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>12773</categoryId>
+				<picture>http://glamby.ru/files/Image/9195.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Стульчик для кормления Lorelli Primo</name>
+			</offer>
+			<offer id="16824" group_id="16824" available="true">
+				<url>http://glamby.ru/catalogue/stulchiki-dlya-kormleniya/1010026-</url>
+				<price>4860</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>12773</categoryId>
+				<picture>http://glamby.ru/files/Image/9205.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Стульчик для кормления Lorelli Tutti Frutti</name>
+			</offer>
+			<offer id="12780" group_id="12780" available="true">
+				<url>http://glamby.ru/catalogue/stulchiki-dlya-kormleniya/1010017-</url>
+				<price>5100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>12773</categoryId>
+				<picture>http://glamby.ru/files/Image/9203.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Стульчик для кормления Lorelli Yam Yam</name>
+			</offer>
+			<offer id="18876" group_id="18876" available="true">
+				<url>http://glamby.ru/catalogue/hodunki/1012038-</url>
+				<price>2425</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>12172</categoryId>
+				<picture>http://glamby.ru/files/Image/.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Ходунки Bertoni Animal EN</name>
+			</offer>
+			<offer id="19053" group_id="19053" available="true">
+				<url>http://glamby.ru/catalogue/hodunki/1012031-</url>
+				<price>1745</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>12172</categoryId>
+				<picture>http://glamby.ru/files/Image/12171.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Ходунки Bertoni Helicopter EN</name>
+			</offer>
+			<offer id="19054" group_id="19054" available="true">
+				<url>http://glamby.ru/catalogue/hodunki/1012032-</url>
+				<price>1745</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>12172</categoryId>
+				<picture>http://glamby.ru/files/Image/13939.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Ходунки Bertoni School EN</name>
+			</offer>
+			<offer id="18970" group_id="18970" available="true">
+				<url>http://glamby.ru/catalogue/hodunki/1012035-</url>
+				<price>2850</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>12172</categoryId>
+				<picture>http://glamby.ru/files/Image/.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Ходунки-качалка Bertoni Bambi EN</name>
+			</offer>
+			<offer id="18966" group_id="18966" available="true">
+				<url>http://glamby.ru/catalogue/kacheli-dlya-doma/1009006-</url>
+				<price>4315</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>14678</categoryId>
+				<picture>http://glamby.ru/files/Image/13191.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Электрокачели Lorelli Portofino</name>
+			</offer>
+			<offer id="18967" group_id="18967" available="true">
+				<url>http://glamby.ru/catalogue/kacheli-dlya-doma/1009007-</url>
+				<price>8175</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>14678</categoryId>
+				<picture>http://glamby.ru/files/Image/13202.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Электрокачели Lorelli Tango  </name>
+			</offer>
+			<offer id="12782" group_id="12782" available="true">
+				<url>http://glamby.ru/catalogue/shezlongi/1011006-</url>
+				<price>2830</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>14677</categoryId>
+				<picture>http://glamby.ru/files/Image/1237.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Стульчик-качалка Lorelli Dream Time</name>
+			</offer>
+			<offer id="18969" group_id="18969" available="true">
+				<url>http://glamby.ru/catalogue/shezlongi/1011011-</url>
+				<price>3590</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>14677</categoryId>
+				<picture>http://glamby.ru/files/Image/13594.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Стульчик-качалка Lorelli Enjoy</name>
+			</offer>
+			<offer id="12781" group_id="12781" available="true">
+				<url>http://glamby.ru/catalogue/shezlongi/1011002-</url>
+				<price>2250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>14677</categoryId>
+				<picture>http://glamby.ru/files/Image/12788.jpg</picture>
+				<store>false</store>
+				<delivery>true</delivery>
+				<pickup>true</pickup>
+				<name>Стульчик-качалка Lorelli Top Relax</name>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>
